@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour {
     
-	//visible in the inspector
+	//visible 
 	public Rigidbody rb;
 	public float bulletSpeed;
 	public float jumpForce;
